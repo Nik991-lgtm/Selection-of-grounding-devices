@@ -1,0 +1,6 @@
+ground_rod
+earthing_tape
+ground_ring
+cirkular_plate
+hemispherical_grounding_electrode
+vertical_rectangular_plate

@@ -1,0 +1,9 @@
+﻿  GroundingDeviceMain.cpp
+  GroundRod.cpp
+  GroundRing.cpp
+  CircularPlate.cpp
+  EarthingTape.cpp
+  HemisphericalGroundingElectrode.cpp
+  VerticalRectangularPlate.cpp
+  Generating Code...
+  Selection_of_grounding_devices.vcxproj -> C:\Users\PC\source\repos\Selection_of_grounding_devices\Debug\Selection_of_grounding_devices.exe
